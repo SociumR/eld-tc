@@ -39,7 +39,9 @@ git clone https://github.com/SociumR/eld-tc.git
   ...
      'whiteListMethods' => [
          '/admin/login',
-         '/admin/users'
+         '/admin/users',
+         '/songs',
+        '/songs/{id}',
      ],
   ...
 
