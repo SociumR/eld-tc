@@ -19,7 +19,7 @@ composer install
 клонируем репозиторий
 
 ```bash
-git clone https://gitlab.iwis.com.ua/d.novotorov/best-music-backend.git
+git clone https://github.com/SociumR/eld-tc.git
 ```
 
 > Ініціалізуємо проект
